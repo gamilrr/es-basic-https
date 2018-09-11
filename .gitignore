@@ -1,0 +1,6 @@
+*.out
+*.a
+*.o
+.ycm_extra_conf.py
+*.swp
+embHTTPS
